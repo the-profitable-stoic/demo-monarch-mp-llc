@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Monarch MP, LLC",
+    "phone": "+12815165304",
+    "category": "masonry contractor",
+    "city": "Houston",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Houston's Premier Masonry Experts",
+      "heroSubline": "Delivering enduring quality and craftsmanship to Houston homes and businesses. Contact us today for superior masonry services.",
+      "aboutTitle": "Built on Craftsmanship, Rooted in Houston",
+      "aboutText": [
+        "Monarch MP, LLC began with a simple goal: to provide Houston with masonry services that stand the test of time. We're not just building walls; we're building legacies, one brick, one stone at a time.",
+        "Our approach is straightforward: meticulous planning, expert execution, and unwavering commitment to quality. We value clear communication, transparency, and exceeding expectations on every project.",
+        "As Houston natives, we're invested in our community. We source materials locally whenever possible, support local businesses, and strive to contribute to the growth and beauty of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Unmatched Expertise",
+          "description": "Years of experience delivering superior masonry solutions across Houston."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We source only the highest-quality bricks, stones, and mortars built to withstand the Texas climate."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tailored masonry designs to perfectly complement your property's style and needs."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "On-time project completion, clear communication, and a commitment to your satisfaction."
+        }
+      ],
+      "ctaHeadline": "Transform Your Property Today",
+      "ctaSubline": "Get a free quote for your next masonry project. Call us at +12815165304."
+    },
+    "services": [
+      {
+        "slug": "brick-masonry",
+        "name": "Brick Masonry",
+        "shortDescription": "Expert brickwork for lasting beauty and structural integrity.",
+        "description": "Brick masonry is the cornerstone of our business. Our skilled masons have decades of experience laying brick for homes, commercial buildings, and decorative features. We understand the nuances of brick types, mortar mixes, and bonding patterns to ensure a durable and aesthetically pleasing result. From new construction to repairs and renovations, we handle it all. We ensure proper drainage and moisture control, crucial in Houston's humid climate, to prevent water damage and prolong the life of your brickwork. Whether you envision a classic red brick facade or a modern, textured design, we have the expertise to bring your vision to life. We can also assist with matching existing brick for seamless repairs and additions.",
+        "process": [
+          "Step 1: Consultation and Design - Discuss your vision and select the perfect brick and mortar.",
+          "Step 2: Site Preparation - We prepare the site, ensuring a solid foundation for your brickwork.",
+          "Step 3: Expert Installation - Our skilled masons meticulously lay each brick with precision and care.",
+          "Step 4: Finishing and Cleanup - We complete the project with thorough cleanup and quality inspection."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Exceptional Durability",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What type of brick is best for Houston's climate?",
+            "answer": "Clay brick is generally the best choice for Houston due to its durability and resistance to moisture. We can advise on specific brick types based on your project's needs and aesthetic preferences."
+          },
+          {
+            "question": "How long does brick masonry last?",
+            "answer": "With proper installation and maintenance, brick masonry can last for over 100 years. We use high-quality materials and proven techniques to ensure long-lasting performance."
+          },
+          {
+            "question": "What is the cost of brick masonry?",
+            "answer": "The cost varies depending on the size and complexity of the project, as well as the type of brick selected. We provide free, detailed quotes to help you understand the investment."
+          }
+        ]
+      },
+      {
+        "slug": "stone-masonry",
+        "name": "Stone Masonry",
+        "shortDescription": "Timeless elegance and unmatched durability with natural stone.",
+        "description": "Stone masonry brings a touch of natural beauty and enduring strength to any property. We specialize in the installation of various stone types, including limestone, granite, sandstone, and flagstone. From retaining walls and patios to fireplaces and facades, we create stunning stone features that enhance your home's aesthetic appeal and value. Our stone masons are skilled in traditional and modern techniques, ensuring precise cuts, secure settings, and seamless integration. We understand the importance of proper drainage and structural support, especially in Houston's fluctuating temperatures and heavy rainfall. We also offer stone repair and restoration services to preserve the beauty and integrity of existing stone structures. We can help you select the perfect stone to complement your home's style and create a unique, lasting impression.",
+        "process": [
+          "Step 1: Stone Selection - Choose from a wide variety of natural stones to match your design.",
+          "Step 2: Precise Cutting and Shaping - We cut and shape each stone to ensure a perfect fit.",
+          "Step 3: Expert Installation - Our masons meticulously set each stone for maximum stability.",
+          "Step 4: Sealing and Finishing - We seal and finish the stone to protect it from the elements."
+        ],
+        "benefits": [
+          "Natural Beauty and Elegance",
+          "Exceptional Durability",
+          "Increased Property Value",
+          "Weather Resistance"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of stone for a patio in Houston?",
+            "answer": "Flagstone and limestone are popular choices for patios in Houston due to their durability and natural beauty. We can advise on specific stone types based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "How do I maintain stone masonry?",
+            "answer": "Regular cleaning with a mild detergent and water is typically sufficient. Sealing the stone can also help protect it from staining and water damage. We can provide specific maintenance recommendations based on the type of stone used."
+          },
+          {
+            "question": "Can you repair damaged stone?",
+            "answer": "Yes, we offer stone repair and restoration services. We can repair cracks, chips, and other damage to restore the beauty and integrity of your stone structures."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-masonry",
+        "name": "Concrete Masonry",
+        "shortDescription": "Durable and cost-effective concrete solutions for various applications.",
+        "description": "Concrete masonry provides a versatile and cost-effective solution for a wide range of construction projects. We specialize in the installation of concrete blocks, pavers, and other concrete elements for walls, foundations, driveways, and patios. Our experienced masons ensure precise alignment, proper reinforcement, and durable construction. We understand the importance of using the correct concrete mix for specific applications, especially in Houston's challenging soil conditions. We also offer decorative concrete options, such as stamped concrete and colored concrete, to enhance the aesthetic appeal of your project. Whether you need a sturdy foundation for a new building or a durable driveway for your home, we have the expertise to deliver exceptional results.",
+        "process": [
+          "Step 1: Design and Planning - We help you design the perfect concrete masonry solution for your needs.",
+          "Step 2: Site Preparation - We prepare the site, ensuring proper grading and drainage.",
+          "Step 3: Concrete Pouring and Finishing - Our experts pour and finish the concrete to a smooth, durable surface.",
+          "Step 4: Curing and Sealing - We cure and seal the concrete to protect it from the elements."
+        ],
+        "benefits": [
+          "Cost-Effectiveness",
+          "Exceptional Durability",
+          "Versatility",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between concrete and cement?",
+            "answer": "Cement is a binding agent used in concrete. Concrete is a mixture of cement, water, and aggregates such as sand and gravel."
+          },
+          {
+            "question": "How long does concrete masonry last?",
+            "answer": "With proper installation and maintenance, concrete masonry can last for 50 years or more."
+          },
+          {
+            "question": "Can you repair cracked concrete?",
+            "answer": "Yes, we offer concrete repair services. We can repair cracks and other damage to restore the integrity of your concrete structures."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Expertly designed and built retaining walls for soil erosion control.",
+        "description": "Protect your property and enhance its beauty with our expertly designed and built retaining walls. We specialize in constructing retaining walls using various materials, including stone, brick, concrete, and timber. Our retaining walls are engineered to withstand soil pressure and prevent erosion, protecting your landscape from damage. We understand the importance of proper drainage and foundation design, especially in Houston's heavy rainfall. We also offer decorative retaining wall options to enhance the aesthetic appeal of your property. Whether you need a small garden retaining wall or a large-scale erosion control solution, we have the expertise to deliver exceptional results. We assess the soil conditions and drainage needs to create a retaining wall that will last for years to come.",
+        "process": [
+          "Step 1: Site Assessment - We assess the site and determine the best retaining wall design.",
+          "Step 2: Design and Engineering - Our engineers design a retaining wall that meets your specific needs.",
+          "Step 3: Construction - Our skilled masons construct the retaining wall with precision and care.",
+          "Step 4: Backfilling and Drainage - We backfill the wall and ensure proper drainage to prevent erosion."
+        ],
+        "benefits": [
+          "Erosion Control",
+          "Soil Stabilization",
+          "Enhanced Landscape",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for retaining walls in Houston?",
+            "answer": "Stone, brick, and concrete are all excellent choices for retaining walls in Houston. The best material depends on your budget, aesthetic preferences, and the specific site conditions."
+          },
+          {
+            "question": "How do I know if I need a retaining wall?",
+            "answer": "If you have sloping land that is prone to erosion, or if you want to create a level surface for a garden or patio, a retaining wall may be necessary."
+          },
+          {
+            "question": "How much do retaining walls cost?",
+            "answer": "The cost of a retaining wall varies depending on the size, materials, and complexity of the project. We provide free, detailed quotes to help you understand the investment."
+          }
+        ]
+      },
+      {
+        "slug": "fireplace-construction",
+        "name": "Fireplace Construction",
+        "shortDescription": "Custom-built fireplaces for warmth, ambiance, and lasting value.",
+        "description": "Add warmth, ambiance, and lasting value to your home with a custom-built fireplace. We specialize in the construction of traditional and modern fireplaces using various materials, including stone, brick, and concrete. Our skilled masons can create a fireplace that perfectly complements your home's style and meets your specific needs. We understand the importance of proper venting and fire safety, ensuring that your fireplace is both beautiful and functional. We also offer fireplace repair and restoration services to preserve the beauty and integrity of existing fireplaces. Whether you envision a cozy wood-burning fireplace or a sleek gas fireplace, we have the expertise to bring your vision to life. We ensure proper insulation and fireproofing for safety and efficiency.",
+        "process": [
+          "Step 1: Design Consultation - Discuss your fireplace vision and material preferences.",
+          "Step 2: Site Preparation - We prepare the area, ensuring proper venting and safety.",
+          "Step 3: Expert Construction - Our masons build your fireplace with attention to detail.",
+          "Step 4: Inspection and Finishing - We complete the project with a thorough safety inspection."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Enhanced Ambiance",
+          "Warmth and Comfort",
+          "Custom Design"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of fireplaces?",
+            "answer": "The main types of fireplaces are wood-burning, gas, and electric. Wood-burning fireplaces offer a traditional ambiance, while gas fireplaces are more convenient and efficient."
+          },
+          {
+            "question": "What is the best material for a fireplace surround?",
+            "answer": "Stone and brick are both excellent choices for fireplace surrounds due to their durability and aesthetic appeal."
+          },
+          {
+            "question": "Do I need a permit to build a fireplace?",
+            "answer": "Yes, you typically need a permit to build a fireplace. We can assist you with the permitting process."
+          }
+        ]
+      },
+      {
+        "slug": "paver-installation",
+        "name": "Paver Installation",
+        "shortDescription": "Durable and beautiful paver solutions for driveways, patios, and walkways.",
+        "description": "Transform your outdoor spaces with our durable and beautiful paver solutions. We specialize in the installation of pavers for driveways, patios, walkways, and pool decks. Our experienced masons ensure precise alignment, proper drainage, and long-lasting performance. We offer a wide variety of paver styles, colors, and patterns to complement your home's style and create a unique outdoor living space. We understand the importance of proper base preparation, especially in Houston's expansive clay soils. We also offer paver repair and sealing services to preserve the beauty and integrity of your paver surfaces. Whether you envision a classic brick driveway or a modern concrete paver patio, we have the expertise to deliver exceptional results. We ensure proper compaction and leveling for a durable and long-lasting paver installation.",
+        "process": [
+          "Step 1: Design and Planning - We help you design the perfect paver layout for your space.",
+          "Step 2: Site Preparation - We prepare the site, ensuring proper grading and compaction.",
+          "Step 3: Paver Installation - Our experts install the pavers with precision and care.",
+          "Step 4: Sanding and Sealing - We sand and seal the pavers to protect them from the elements."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durability",
+          "Low Maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What are the different types of pavers?",
+            "answer": "The main types of pavers are brick, concrete, and stone. Each type offers unique aesthetic and performance characteristics."
+          },
+          {
+            "question": "How do I maintain paver surfaces?",
+            "answer": "Regular cleaning with a mild detergent and water is typically sufficient. Sealing the pavers can also help protect them from staining and fading."
+          },
+          {
+            "question": "How much does paver installation cost?",
+            "answer": "The cost of paver installation varies depending on the size, materials, and complexity of the project. We provide free, detailed quotes to help you understand the investment."
+          }
+        ]
+      },
+      {
+        "slug": "masonry-repair",
+        "name": "Masonry Repair & Restoration",
+        "shortDescription": "Preserving Houston's masonry heritage with expert repair and restoration services.",
+        "description": "Houston's architecture tells a story, and we're here to help preserve it. We specialize in masonry repair and restoration, addressing everything from cracked bricks and crumbling mortar to damaged stone and failing foundations. Our team understands the unique challenges posed by Houston's climate, including the effects of humidity, flooding, and seasonal temperature changes. We meticulously match existing materials and techniques to seamlessly blend repairs with the original construction. Whether it's tuckpointing, brick replacement, or structural stabilization, we ensure that your masonry stands strong for generations to come. We take pride in our ability to restore historic buildings and preserve the character of Houston's neighborhoods. We handle projects of all sizes, from minor repairs to complete restorations.",
+        "process": [
+          "Step 1: Detailed Inspection - We thoroughly assess the damage and identify the root cause.",
+          "Step 2: Material Matching - We source or create materials that perfectly match the original construction.",
+          "Step 3: Expert Repair - Our skilled masons carefully repair or replace damaged masonry.",
+          "Step 4: Sealing and Protection - We seal and protect the repaired areas to prevent future damage."
+        ],
+        "benefits": [
+          "Preserved Structural Integrity",
+          "Enhanced Aesthetic Appeal",
+          "Increased Property Value",
+          "Protection Against Further Damage"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my masonry needs repair?",
+            "answer": "Cracks, crumbling mortar, and water damage are all signs that your masonry may need repair. We offer free inspections to assess the condition of your masonry."
+          },
+          {
+            "question": "Can you match the existing brick or stone?",
+            "answer": "Yes, we specialize in matching existing materials. We have a wide network of suppliers and can even create custom mortar mixes to ensure a seamless repair."
+          },
+          {
+            "question": "What is tuckpointing?",
+            "answer": "Tuckpointing is the process of removing and replacing damaged mortar joints. It helps to restore the structural integrity and aesthetic appeal of masonry walls."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Sugar Land",
+        "slug": "sugar-land-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC is proud to offer expert masonry services to the residents and businesses of Sugar Land, Texas. Known for its meticulously planned communities developed primarily in the 1990s and 2000s, Sugar Land boasts beautiful homes and landscapes that require skilled craftsmanship for both construction and maintenance. We understand the unique architectural styles prevalent in Sugar Land and are committed to providing top-quality masonry solutions that enhance the beauty and durability of your property. Whether you need brick repair, stone installation, or custom masonry work, our experienced team is ready to exceed your expectations.\n\nOur services in Sugar Land are tailored to withstand the challenges of the local climate, including very hot and humid summers. We use only the highest quality materials and proven techniques to ensure that your masonry work stands the test of time. From decorative features to structural components, Monarch MP, LLC is dedicated to providing reliable and professional masonry services throughout Sugar Land.",
+        "localContext": "Sugar Land is a master-planned community developed in the 1990s and 2000s, known for its attractive neighborhoods and high quality of life. The area experiences very hot and humid summers, requiring durable and weather-resistant masonry.",
+        "nearbyAreas": [
+          "Missouri City",
+          "Stafford",
+          "Richmond"
+        ]
+      },
+      {
+        "city": "Katy",
+        "slug": "katy-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC extends its professional masonry services to Katy, Texas, a rapidly growing city characterized by newer planned communities developed from the 2000s to the 2020s. Katy's modern homes and businesses require experienced masonry contractors to provide quality construction and maintenance. We are committed to delivering exceptional masonry solutions that meet the specific needs of Katy residents and businesses. From new construction to renovations and repairs, our skilled team ensures lasting beauty and structural integrity.\n\nUnderstanding the demands of the Katy climate, including the very hot and humid summers, we prioritize using premium materials and proven methods to ensure that your masonry work is both aesthetically pleasing and durable. Monarch MP, LLC is your trusted partner for all your masonry needs in Katy, providing reliable and professional services from start to finish.",
+        "localContext": "Katy is a newer city with master-planned communities developed in the 2000s and 2020s. The climate features very hot and humid summers, requiring robust masonry work.",
+        "nearbyAreas": [
+          "Brookshire",
+          "Fulshear",
+          "Cinco Ranch"
+        ]
+      },
+      {
+        "city": "The Woodlands",
+        "slug": "the-woodlands-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC proudly serves The Woodlands, Texas, a renowned master-planned community featuring homes built from the 1980s to the present. Our masonry services are tailored to meet the diverse needs of residents and businesses in The Woodlands, ensuring that every project reflects the highest standards of quality and craftsmanship. Whether you need brickwork, stonework, or hardscaping, our experienced team is dedicated to delivering exceptional results that enhance the beauty and value of your property.\n\nWe understand the unique architectural styles and environmental considerations of The Woodlands, and our services are designed to withstand the challenges of the very hot and humid summers. Monarch MP, LLC is committed to providing reliable and professional masonry services throughout The Woodlands, ensuring that your project is completed on time, within budget, and to your complete satisfaction.",
+        "localContext": "The Woodlands is a master-planned community with homes built from the 1980s to the present, experiencing very hot and humid summers. This requires durable and aesthetically pleasing masonry solutions.",
+        "nearbyAreas": [
+          "Spring",
+          "Conroe",
+          "Tomball"
+        ]
+      },
+      {
+        "city": "Pearland",
+        "slug": "pearland-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC is pleased to offer comprehensive masonry services to the residents and businesses of Pearland, Texas. Known for its suburban developments primarily built in the 1990s and 2000s, Pearland offers a mix of residential and commercial properties that benefit from quality masonry work. We are dedicated to providing top-notch masonry solutions that enhance the beauty, durability, and value of your property. From brick repair to stone veneer installation, our skilled team is committed to exceeding your expectations.\n\nOur services in Pearland are tailored to withstand the challenges of the local climate, including very hot and humid summers. We use only the highest quality materials and proven techniques to ensure that your masonry work stands the test of time. Monarch MP, LLC is your trusted partner for all your masonry needs in Pearland, delivering reliable and professional services with a focus on customer satisfaction.",
+        "localContext": "Pearland is known for suburban developments from the 1990s and 2000s and experiences very hot and humid summers, making durable masonry essential.",
+        "nearbyAreas": [
+          "Friendswood",
+          "Alvin",
+          "League City"
+        ]
+      },
+      {
+        "city": "League City",
+        "slug": "league-city-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC extends its professional masonry services to League City, Texas, a rapidly growing city characterized by newer developments from the 2000s. League City's modern homes and businesses require experienced masonry contractors to provide quality construction and maintenance. We are committed to delivering exceptional masonry solutions that meet the specific needs of League City residents and businesses. From new construction to renovations and repairs, our skilled team ensures lasting beauty and structural integrity.\n\nUnderstanding the demands of the League City climate, including the very hot and humid summers, we prioritize using premium materials and proven methods to ensure that your masonry work is both aesthetically pleasing and durable. Monarch MP, LLC is your trusted partner for all your masonry needs in League City, providing reliable and professional services from start to finish.",
+        "localContext": "League City is a newer city with developments from the 2000s onward. It experiences very hot and humid summers, requiring robust masonry work.",
+        "nearbyAreas": [
+          "Dickinson",
+          "Kemah",
+          "Webster"
+        ]
+      },
+      {
+        "city": "Missouri City",
+        "slug": "missouri-city-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC is proud to offer expert masonry services to the residents and businesses of Missouri City, Texas. As a neighboring community to Sugar Land, Missouri City shares similar characteristics, including well-planned neighborhoods and a need for quality masonry work. We understand the architectural styles prevalent in Missouri City and are committed to providing top-quality masonry solutions that enhance the beauty and durability of your property. Whether you need brick repair, stone installation, or custom masonry work, our experienced team is ready to exceed your expectations.\n\nOur services in Missouri City are tailored to withstand the challenges of the local climate, including very hot and humid summers. We use only the highest quality materials and proven techniques to ensure that your masonry work stands the test of time. From decorative features to structural components, Monarch MP, LLC is dedicated to providing reliable and professional masonry services throughout Missouri City.",
+        "localContext": "Missouri City is a well-established community near Sugar Land, experiencing very hot and humid summers. Durable and aesthetically pleasing masonry solutions are essential.",
+        "nearbyAreas": [
+          "Sugar Land",
+          "Stafford",
+          "Meadows Place"
+        ]
+      },
+      {
+        "city": "Spring",
+        "slug": "spring-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC is pleased to extend our masonry services to Spring, Texas. Spring is a large, unincorporated community in the Houston metropolitan area, with a mix of established neighborhoods and newer developments. We offer a full range of masonry services to meet the diverse needs of Spring residents and businesses, from brick and stone construction to repairs and renovations. Our experienced team is committed to providing exceptional craftsmanship and reliable service.\n\nWe understand the challenges posed by the hot and humid climate in Spring, and we use high-quality materials and proven techniques to ensure that our masonry work is both beautiful and durable. Whether you need a new patio, a repaired chimney, or custom stonework, Monarch MP, LLC is your trusted partner for all your masonry needs in Spring.",
+        "localContext": "Spring, Texas, is a large community with a mix of older and newer homes, experiencing hot and humid summers that demand durable masonry.",
+        "nearbyAreas": [
+          "The Woodlands",
+          "Tomball",
+          "Conroe"
+        ]
+      },
+      {
+        "city": "Tomball",
+        "slug": "tomball-tx",
+        "state": "TX",
+        "content": "Monarch MP, LLC is dedicated to providing top-quality masonry services to the residents and businesses of Tomball, Texas. Tomball maintains a unique small-town charm while experiencing growth and development. Our masonry services in Tomball are tailored to meet the specific needs of the community, whether it's preserving the historic character of older homes or creating modern, eye-catching designs for new construction. We pride ourselves on our attention to detail and commitment to customer satisfaction.\n\nGiven Tomball's location in the Houston metropolitan area, we understand the impact of the hot and humid climate on masonry structures. We use only the best materials and techniques to ensure that our work is both beautiful and long-lasting. From brick repairs to custom stonework, Monarch MP, LLC is your reliable partner for all your masonry needs in Tomball.",
+        "localContext": "Tomball is a growing city with a small-town feel, experiencing hot and humid summers, requiring masonry that is both durable and complements the local aesthetic.",
+        "nearbyAreas": [
+          "Magnolia",
+          "Spring",
+          "Cypress"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah P.",
+        "rating": 5,
+        "service": "Brick Patio Installation",
+        "text": "Monarch MP transformed our backyard with a beautiful brick patio. The team was professional, efficient, and the craftsmanship is outstanding. We're so happy with the result!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Retaining Wall Construction",
+        "text": "We needed a retaining wall to prevent erosion in our backyard, and Monarch MP delivered. The wall is sturdy, looks great, and the price was fair. Highly recommend!",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 4,
+        "service": "Fireplace Repair",
+        "text": "Our fireplace was in rough shape, but Monarch MP brought it back to life. They were able to match the existing brick perfectly, and the repair work is seamless. Great service!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "David R.",
+        "rating": 5,
+        "service": "Stone Masonry",
+        "text": "Monarch MP did an excellent job with the stone facade on our new home. The attention to detail and quality of workmanship is impressive. We're thrilled with the finished product!",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Ashley K.",
+        "rating": 5,
+        "service": "Concrete Paver Driveway",
+        "text": "We recently had Monarch MP install a concrete paver driveway, and we couldn't be happier. The driveway looks fantastic, and the team was professional and courteous throughout the entire process.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Masonry Repair",
+        "text": "Good work repairing some cracks in our brick wall. They were prompt and the price was reasonable. Would use again.",
+        "date": "2025-02-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Houston Masonry Contractor | Monarch MP, LLC",
+        "description": "Expert masonry services in Houston, TX. Brick, stone, concrete, retaining walls, fireplaces. Call +12815165304 for a free quote!"
+      },
+      "about": {
+        "title": "About Monarch MP, LLC | Houston Masonry Experts",
+        "description": "Learn about Monarch MP, LLC, Houston's trusted masonry contractor. Quality craftsmanship & reliable service for all your masonry needs."
+      },
+      "services": {
+        "title": "Masonry Services | Houston, TX | Monarch MP",
+        "description": "Monarch MP offers comprehensive masonry services in Houston. Brick, stone, concrete, repair, and more. Get a free estimate today!"
+      },
+      "contact": {
+        "title": "Contact Monarch MP, LLC | Houston Masonry",
+        "description": "Contact Monarch MP, LLC for expert masonry services in Houston. Call +12815165304 or fill out our online form for a free quote."
+      },
+      "reviews": {
+        "title": "Monarch MP, LLC Reviews | Houston Masonry Contractor",
+        "description": "Read reviews from satisfied Monarch MP, LLC customers in Houston. See why we're the trusted choice for masonry services."
+      },
+      "service-areas": {
+        "title": "Monarch MP Service Areas | Houston Masonry",
+        "description": "Monarch MP provides masonry services throughout Houston and surrounding areas. See our service area map and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "brick-masonry": "/images/service-brick-masonry.webp",
+      "stone-masonry": "/images/service-stone-masonry.webp",
+      "concrete-masonry": "/images/service-concrete-masonry.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "fireplace-construction": "/images/service-fireplace-construction.webp",
+      "paver-installation": "/images/service-paver-installation.webp",
+      "masonry-repair": "/images/service-masonry-repair.webp"
+    },
+    "servicesResponsive": {
+      "brick-masonry": {
+        "src": "/images/service-brick-masonry.webp",
+        "srcset": "/images/service-brick-masonry-400w.webp 400w, /images/service-brick-masonry-800w.webp 800w, /images/service-brick-masonry-1200w.webp 1200w, /images/service-brick-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stone-masonry": {
+        "src": "/images/service-stone-masonry.webp",
+        "srcset": "/images/service-stone-masonry-400w.webp 400w, /images/service-stone-masonry-800w.webp 800w, /images/service-stone-masonry-1200w.webp 1200w, /images/service-stone-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-masonry": {
+        "src": "/images/service-concrete-masonry.webp",
+        "srcset": "/images/service-concrete-masonry-400w.webp 400w, /images/service-concrete-masonry-800w.webp 800w, /images/service-concrete-masonry-1200w.webp 1200w, /images/service-concrete-masonry.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fireplace-construction": {
+        "src": "/images/service-fireplace-construction.webp",
+        "srcset": "/images/service-fireplace-construction-400w.webp 400w, /images/service-fireplace-construction-800w.webp 800w, /images/service-fireplace-construction-1200w.webp 1200w, /images/service-fireplace-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "paver-installation": {
+        "src": "/images/service-paver-installation.webp",
+        "srcset": "/images/service-paver-installation-400w.webp 400w, /images/service-paver-installation-800w.webp 800w, /images/service-paver-installation-1200w.webp 1200w, /images/service-paver-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "masonry-repair": {
+        "src": "/images/service-masonry-repair.webp",
+        "srcset": "/images/service-masonry-repair-400w.webp 400w, /images/service-masonry-repair-800w.webp 800w, /images/service-masonry-repair-1200w.webp 1200w, /images/service-masonry-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

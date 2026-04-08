@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-monarch-mp-llc.dream-surge.com/sitemap-index.xml
